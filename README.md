@@ -42,5 +42,6 @@ auf den hiermit erstellten Datensatz anwenden.
 Mit dem hier erklärten workflow können die Ergebnisse aus der Bachelorarbeit reproduziert werden.
 Zur erstellung von Plots wurden noch weitere Skripts genutzt, die hier nicht hochgeladen wurden weil sie nicht für den 
 Haupt-Workflow relevant sind.
+Der final erstelle Datensatz befindet sich in data/.
 
 Bei Fragen zur Anwendung der Skripts oder zu den Plot-Skripts stehe ich gerne zur Verfügung.
